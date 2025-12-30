@@ -32,10 +32,13 @@
    - `let`
      - `let` is ued to execute the code only, if the object is not null.
      - `let` will return `it` as Context Type.
-     - `let` will use for Null checks.
+     - `let` used for Null checks.
 ---
      
    - `apply`
+     - `apply` is ued to initilize an object and returns the same object.
+     - `apply` will return `this` as Context Type.
+     - `apply` used to Object creations, setting multiple properties.
    - `run`
    - `with`
    - `also`
