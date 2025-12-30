@@ -1,1 +1,2 @@
-# android-dev-handbook
+# Android Dev Handbook
+--------------------------------
